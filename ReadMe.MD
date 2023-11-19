@@ -20,6 +20,11 @@
 
 - Route 53 also make "Health Checks"
 
+### Route53 DNS Failover across AWS Regions
+
+- ![Route53 DNS Failover across AWS Regions](dns-failover-across-regions.png)
+
+
 ### Resources
 
 1. https://aws.amazon.com/route53/
@@ -27,3 +32,5 @@
 2. [Route53 - Abhishek Veeramalla](https://www.youtube.com/watch?v=6BoTfTtNsGU)
 
 3. [What is Amazon Route 53? AWS Route 53 Tutorial](https://intellipaat.com/blog/what-is-aws-route53/)
+
+4. [AWS VPC and Networking in depth - Chetan Agrawal](https://www.udemy.com/course/networking-in-aws/)
